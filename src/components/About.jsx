@@ -39,7 +39,7 @@ const About = () => {
                         transition={{ duration: 0.7 }}
                     >
                         <div className="about-image-container">
-                            <img src="profile-2.jpg" alt="Rifat Abhista" className="about-image" />
+                            <img src="/profile-2.jpg" alt="Rifat Abhista" className="about-image" />
                         </div>
                         <div className="about-experience-badge">
                             <div className="number">2+</div>
